@@ -2,6 +2,8 @@
 
 The 'Relax' clock. designed to stop you worrying about individual minutes in a day. It is a purposefully vague clock, giving only a rough indication of the current minute or hour. This clock was designed to be both less than and more than a clock or timepiece. While this clock does allow you to keep track of the important times of your day, when those said times aren't urgently soon, it is more like an art-piece and exists only to please the eye and provide colour.
 
+See https://rubenmagallanes.github.io for a gif of the clock in action & it's different colors throughout the day.
+
 running: download / clone onto your machine: 
 git clone https://github.com/RubenMagallanes/creative_coding_II_project_1-clock.git
 
